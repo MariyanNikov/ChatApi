@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat", "Chat\Chat.csproj", "{599703BA-CFC6-4B74-B42B-94AF3FE22EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat.Domain", "Chat.Domain\Chat.Domain.csproj", "{B04646FA-F2CF-4E91-B42C-9685D2E5AE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat.Data", "Chat.Data\Chat.Data.csproj", "{7180807E-8953-4DC3-87A7-6BBFABF14AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599703BA-CFC6-4B74-B42B-94AF3FE22EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599703BA-CFC6-4B74-B42B-94AF3FE22EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599703BA-CFC6-4B74-B42B-94AF3FE22EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599703BA-CFC6-4B74-B42B-94AF3FE22EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04646FA-F2CF-4E91-B42C-9685D2E5AE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04646FA-F2CF-4E91-B42C-9685D2E5AE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04646FA-F2CF-4E91-B42C-9685D2E5AE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04646FA-F2CF-4E91-B42C-9685D2E5AE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7180807E-8953-4DC3-87A7-6BBFABF14AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7180807E-8953-4DC3-87A7-6BBFABF14AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7180807E-8953-4DC3-87A7-6BBFABF14AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7180807E-8953-4DC3-87A7-6BBFABF14AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C603B0A3-2031-47C1-94B3-93806E17C871}
+	EndGlobalSection
+EndGlobal
